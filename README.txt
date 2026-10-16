@@ -1,5 +1,4 @@
-シカクエスト ver.0.4 / サンプル問題のみ
-GitHub Pages: index.html / sw.js / manifest.webmanifest / icon.svg を同じ階層にアップロード。
-既存のver.0.3と同じGitHub PagesのURLなら学習記録を引き継ぎます（同じブラウザ内）。
-ver.0.3以前の模試は問題別履歴がないため苦手判定には反映されません。
-実際の関係者外秘問題は含まれていません。許可なしでアップロードしないでください。
+シカクエスト ver.0.4.1
+修正: 復習リストの「この問題を解く」ボタンの遷移を明示的に処理。復習終了後は復習一覧に戻る。
+GitHub Pages: index.html, sw.js, manifest.webmanifest, icon.svg を同じ場所へ上書き。
+実際の社内試験問題は含まれていません。
