@@ -1,4 +1,5 @@
-シカクエスト ver.0.4.1
-修正: 復習リストの「この問題を解く」ボタンの遷移を明示的に処理。復習終了後は復習一覧に戻る。
-GitHub Pages: index.html, sw.js, manifest.webmanifest, icon.svg を同じ場所へ上書き。
-実際の社内試験問題は含まれていません。
+シカクエスト ver.0.4.2
+復習一覧の「この問題を解く」の画面遷移を共通イベント処理へ統合。
+既存の学習記録の保存キーは変更していません。
+GitHub Pagesにindex.html / sw.js / manifest.webmanifest / icon.svgを上書きしてください。
+公開後Safariで再読み込みしてください。社内機密問題はアップロードしないでください。
