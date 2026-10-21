@@ -1,11 +1,11 @@
 {
-  "name": "シカクエスト ver.0.4",
+  "name": "シカクエスト ver.0.5.1",
   "short_name": "シカクエスト",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f1f6ff",
-  "theme_color": "#3479ec",
+  "background_color": "#f6f9fc",
+  "theme_color": "#e8f4fb",
   "icons": [
     {
       "src": "icon.svg",
